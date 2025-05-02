@@ -16,7 +16,7 @@ export default function Hero() {
         
         <div className="space-y-4 max-w-2xl">
           <p className="text-lg text-muted-foreground">
-            I'm a full-stack developer that loves building products and web apps
+            I'm a full-stack developer that loves building a useful products
           </p>
           <p className="text-lg text-muted-foreground">
             I'm a full-stack developer with years of experience building scalable web apps that are performance optimized and good looking.
